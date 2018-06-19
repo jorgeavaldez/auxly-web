@@ -1,0 +1,12 @@
+.Button {
+  display: inline-block;
+  background-color: black;
+  color: #eee;
+
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  margin: 1em;
+}

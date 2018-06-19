@@ -1,0 +1,15 @@
+.App {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.AppHeader {
+  background-color: #222;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: white;
+}
+
+.AppTitle {
+  margin: 1em;
+}
